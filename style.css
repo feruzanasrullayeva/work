@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    background:white ;
+    padding: 20px 0;
+}
+
+.text{
+    color: white;
+    background: black;
+    width: 400px;
+    text-align: justify;
+    margin: 0px auto 50px auto;
+    border: 5px solid white;
+    padding: 10px;
+    box-sizing: border-box ;
+    border-radius: 21px;
+}
+
+ul{
+    width: 200px;
+    margin: 0 auto;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    height: 100vh;
+    background: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg) no-repeat center/cover;
+}
+
+ 
